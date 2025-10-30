@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zosick</h1>
-<h3 align="center">Aspiring Researcher and Python CLI Development Enthusiast 📊</h3>
+<h3 align="center">Aspiring Researcher and Python Development Enthusiast 📊</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20views&color=0e75b6&style=flat" alt="zosick" />
@@ -10,7 +10,7 @@
 - 🔭 I’m currently focused on **TRL Calculator**, a robust CLI tool for academic data assessment.
 - 🌱 My primary focus is on building **clean, high-performance Python utilities** to solve practical academic data problems.
 - 💡 I'm an enthusiast for improving the **user experience (UX)** of command-line tools using libraries like **Rich**.
-- 🤝 I'm open to collaborating on projects involving **data analysis, TRL assessment, and data visualization**.
+- 🤝 I'm open to collaborating on projects involving **data analysis and data visualization**.
 
 <hr/>
 
