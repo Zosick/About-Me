@@ -47,12 +47,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zosick&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zosick&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=zosick&theme=onedark&column=7" alt="GitHub Trophies" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=zosick&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
