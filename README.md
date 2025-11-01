@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm D. Calungsod</h1>
-<h3 align="center">Aspiring Researcher and Python Development Enthusiast 📊</h3>
+<h3 align="center">Aspiring Researcher & Python Development Enthusiast 🐍</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20views&color=0e75b6&style=flat" alt="zosick" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20Views&color=0e75b6&style=flat-square" alt="zosick" />
 </p>
+
+---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently focused on **TRL Calculator**, a robust CLI tool for academic data assessment.
-- 🌱 My primary focus is on building **clean, high-performance Python utilities** to solve practical academic data problems.
-- 💡 I'm an enthusiast for improving the **user experience (UX)** of command-line tools using libraries like **Rich**.
-- 🤝 I'm open to collaborating on projects involving **data analysis and data visualization**.
+- 🔭 I’m the creator of the **[Open-Access PDF Retrieval System](https://github.com/Zosick/PDF-Retriever-project)**, a professional CLI tool for downloading academic articles.
+- 🌱 My primary interest is building **clean, high-performance Python utilities** that solve practical problems for researchers.
+- 💡 I'm passionate about improving the **user experience (UX)** of command-line tools using modern libraries like **Rich**.
+- 🤝 I'm open to collaborating on projects involving **data analysis, academic tooling, and data visualization**.
 
-<hr/>
+---
 
-<h3 align="left">Skills & Tools:</h3>
-<p align="left">
+### 🛠️ Skills & Tools
+
+<p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/>
     </a>
@@ -35,31 +38,23 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="40" height="40"/>
     </a>
     <a href="https://github.com/Textualize/rich" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="rich" title="Rich CLI" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/textualize/rich/master/imgs/logo.svg" alt="rich" title="Rich CLI" width="40" height="40"/>
     </a>
 </p>
 
-<hr/>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<table>
-    <tr>
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-        </td>
-        <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zosick&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-             <img src="https://github-profile-trophy.vercel.app/?username=zosick&theme=onedark" alt="GitHub Trophies" />
-        </td>
-    </tr>
-</table>
+### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak
-      " />
+    <img src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zosick&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=zosick&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
